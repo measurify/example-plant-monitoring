@@ -1,8 +1,8 @@
-### Design and implementation of an embedded system for remote monitoring of plants and flowers
+#### Design and implementation of an embedded system for remote monitoring of plants and flowers
 
 ## Overview
 
-#The goal of this thesis is the design and implementation of an embedded system for monitoring
+The goal of this thesis is the design and implementation of an embedded system for monitoring
 remote of plants and flowers. Using a brightness sensor, SparkFun TSL2561,
 an air humidity and temperature sensor, DHT22 Pro v1.3, and a capacitive moisture sensor
 of the land, DFRobot SEN0193. Furthermore, there is also an Arduino TFT to show information,
