@@ -1,4 +1,4 @@
-#### Design and implementation of an embedded system for remote monitoring of plants and flowers
+# Design and implementation of an embedded system for remote monitoring of plants and flowers
 
 ## Overview
 
